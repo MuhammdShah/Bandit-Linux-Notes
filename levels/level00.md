@@ -23,6 +23,9 @@ ls
 # Show the contents of the file that contains the password
 cat readme
 ```
+
+## Screenshot of level
+![level 0 screenshot](../images/level100.png)
 # What i learned
 
 Level 0 was simple, but it actually taught me a lot about how Linux really works.
