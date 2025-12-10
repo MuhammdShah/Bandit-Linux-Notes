@@ -13,7 +13,7 @@ This level teaches you how to use `find` with **ownership filters**, **size filt
 
 ---
 
-## 🔐 Connection Details
+##  Connection Details
 - **Host:** bandit.labs.overthewire.org  
 - **Port:** 2220  
 - **Username:** `bandit6`  
@@ -52,7 +52,7 @@ cat /var/lib/dpkg/info/bandit7.password
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 ###  Searching the entire filesystem
 Unlike earlier levels, this one requires searching **from the root (`/`)**, because the password file isn’t restricted to a home directory.
